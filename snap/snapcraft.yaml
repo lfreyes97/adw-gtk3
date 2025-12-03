@@ -1,7 +1,7 @@
 name: gtk-theme-adw-gtk3
 build-base: core24
 base: bare
-version: '6.3'
+version: '6.4'
 platforms:
   all:
     build-on: [amd64]
