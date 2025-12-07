@@ -1,0 +1,96 @@
+// Base16 Theme: Catppuccin Mocha
+// Author: Catppuccin Org
+// Variant: dark
+// Generated automatically by base16-generator.py
+
+// Override palette colors with base16 scheme
+$blue_1: ##accafb;
+$blue_2: ##9abffa;
+$blue_3: #89b4fa;
+$blue_4: ##7ba2e1;
+$blue_5: ##6d90c8;
+
+$green_1: ##c0ebbd;
+$green_2: ##b3e7af;
+$green_3: #a6e3a1;
+$green_4: ##95cc90;
+$green_5: ##84b580;
+
+$yellow_1: ##faeac7;
+$yellow_2: ##f9e6bb;
+$yellow_3: #f9e2af;
+$yellow_4: ##e0cb9d;
+$yellow_5: ##c7b48c;
+
+$orange_1: ##fbc9ab;
+$orange_2: ##fabe99;
+$orange_3: #fab387;
+$orange_4: ##e1a179;
+$orange_5: ##c88f6c;
+
+$red_1: ##f6adc2;
+$red_2: ##f49cb5;
+$red_3: #f38ba8;
+$red_4: ##da7d97;
+$red_5: ##c26f86;
+
+$purple_1: ##dac0f9;
+$purple_2: ##d2b3f8;
+$purple_3: #cba6f7;
+$purple_4: ##b695de;
+$purple_5: ##a284c5;
+
+$brown_1: ##f5dcdc;
+$brown_2: ##f3d4d4;
+$brown_3: #f2cdcd;
+$brown_4: ##d9b8b8;
+$brown_5: ##c1a4a4;
+
+$light_1: #b4befe;
+$light_2: ##b0baf8;
+$light_3: ##a2abe4;
+$light_4: ##9098cb;
+$light_5: ##7d85b1;
+
+$dark_1: #585b70;
+$dark_2: #45475a;
+$dark_3: #313244;
+$dark_4: #181825;
+$dark_5: #1e1e2e;
+
+// Override default colors
+@define-color accent_bg_color #89b4fa;
+@define-color accent_fg_color white;
+
+@define-color destructive_bg_color #f38ba8;
+@define-color destructive_fg_color white;
+
+@define-color success_bg_color #a6e3a1;
+@define-color success_fg_color white;
+
+@define-color warning_bg_color #fab387;
+@define-color warning_fg_color white;
+
+@define-color error_bg_color #f38ba8;
+@define-color error_fg_color white;
+
+@define-color window_bg_color #1e1e2e;
+@define-color window_fg_color #cdd6f4;
+
+@define-color view_bg_color #292938;
+@define-color view_fg_color #cdd6f4;
+
+@define-color headerbar_bg_color #343442;
+@define-color headerbar_fg_color #cdd6f4;
+
+@define-color sidebar_bg_color #343442;
+@define-color sidebar_fg_color #cdd6f4;
+
+@define-color card_bg_color #30303e;
+@define-color card_fg_color #cdd6f4;
+
+@define-color dialog_bg_color #393947;
+@define-color dialog_fg_color #cdd6f4;
+
+@define-color popover_bg_color #393947;
+@define-color popover_fg_color #cdd6f4;
