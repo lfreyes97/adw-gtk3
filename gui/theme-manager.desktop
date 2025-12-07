@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Theme Manager
+GenericName=GTK Theme Manager
+Comment=Manage, compile and customize GTK themes
+Icon=preferences-desktop-theme
+Exec=/home/luis/Descargas/adw-gtk3/gui/theme-manager.py
+Terminal=false
+Categories=GTK;GNOME;Settings;DesktopSettings;
+Keywords=theme;gtk;appearance;style;base16;
+StartupNotify=true
